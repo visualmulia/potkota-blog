@@ -1,12 +1,14 @@
 ---
-title: "Cara Merawat Tanaman Hias di Dalam Ruangan Agar Tetap Subur dan Sehat"
-date: "2026-07-14"
-author: "Admin"
-featured_image: ""
+title: Cara Merawat Tanaman Hias di Dalam Ruangan Agar Tetap Subur dan Sehat
+date: 2026-07-14
+author: Admin PotKota
+featured_image: /images/uploads/01.png
+description: "Panduan lengkap cara merawat tanaman hias di dalam ruangan: tips
+  penyiraman, pencahayaan, kelembapan, dan pupuk. Cocok untuk pemula agar
+  tanaman indoor tetap subur."
 tags:
-  - "tanaman hias indoor"
-  - "merawat tanaman dalam ruangan"
-description: "Panduan lengkap cara merawat tanaman hias di dalam ruangan: tips penyiraman, pencahayaan, kelembapan, dan pupuk. Cocok untuk pemula agar tanaman indoor tetap subur."
+  - tanaman hias indoor
+  - merawat tanaman dalam ruangan
 ---
 
 Merawat tanaman hias di dalam ruangan memang membutuhkan perhatian ekstra dibandingkan tanaman outdoor. Namun, dengan teknik yang tepat, tanaman indoor Anda bisa tetap subur dan menjadi dekorasi hidup yang menyegarkan. Kunci utamanya adalah memahami kebutuhan dasar tanaman: cahaya, air, kelembapan, dan nutrisi. Artikel ini akan membahas langkah-langkah praktis cara merawat tanaman hias di dalam ruangan agar tidak layu dan tumbuh optimal.
