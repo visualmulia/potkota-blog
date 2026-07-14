@@ -1,0 +1,10 @@
+# PotKota
+Inspirasi berkebun perkotaan (urban gardening), perawatan tanaman hias dalam ruangan, dan pertanian mandiri di lahan sempit.
+
+## Core Pages
+- [Beranda](https://www.potkota.web.id/) - Halaman utama inspirasi berkebun.
+- [Tentang Kami](https://www.potkota.web.id/#about) - Informasi tentang redaksi PotKota.
+- [Kontak](https://www.potkota.web.id/contact) - Hubungi kami.
+- [Disclaimer](https://www.potkota.web.id/disclaimer) - Sangkalan hukum.
+- [Privacy Policy](https://www.potkota.web.id/privacy) - Kebijakan privasi.
+- [Terms of Service](https://www.potkota.web.id/terms) - Syarat & ketentuan.
