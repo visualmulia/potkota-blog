@@ -1,12 +1,14 @@
 ---
 title: "Cara Merawat Monstera Deliciosa agar Daun Cepat Pecah: Panduan Lengkap"
-date: "2026-07-15"
-author: "Admin"
-featured_image: ""
+date: 2026-07-15
+author: Admin
+featured_image: /images/uploads/02.png
+description: Ingin daun monstera deliciosa cepat pecah dan berlubang? Simak
+  panduan lengkap cara merawat monstera deliciosa agar daun cepat pecah, mulai
+  dari cahaya, penyiraman, hingga pemupukan.
 tags:
-  - "monstera deliciosa"
-  - "daun pecah"
-description: "Ingin daun monstera deliciosa cepat pecah dan berlubang? Simak panduan lengkap cara merawat monstera deliciosa agar daun cepat pecah, mulai dari cahaya, penyiraman, hingga pemupukan."
+  - monstera deliciosa
+  - daun pecah
 ---
 
 Untuk membuat daun monstera deliciosa cepat pecah (fenestrasi), Anda perlu memberikan kondisi pertumbuhan yang ideal: cahaya terang tidak langsung, kelembapan tinggi, penyiraman teratur, media tanam porous, dan pemupukan rutin. Faktor utama yang memicu daun pecah adalah intensitas cahaya yang cukup dan nutrisi yang seimbang.
