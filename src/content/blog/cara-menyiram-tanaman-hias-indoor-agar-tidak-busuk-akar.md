@@ -1,12 +1,15 @@
 ---
-title: "Cara Menyiram Tanaman Hias Indoor agar Tidak Busuk Akar: Panduan Lengkap untuk Plant Parent"
-date: "2026-09-23"
-author: "Admin"
-featured_image: ""
+title: "Cara Menyiram Tanaman Hias Indoor agar Tidak Busuk Akar: Panduan Lengkap
+  untuk Plant Parent"
+date: 2026-09-23
+author: Admin
+featured_image: /images/uploads/panduan-siram-tanaman-untuk-melawan-akar-busuk.jpg
+description: Pelajari cara menyiram tanaman hias indoor agar tidak busuk akar
+  dengan teknik bottom watering, frekuensi tepat, dan media tanam porous. Simak
+  panduan lengkapnya!
 tags:
-  - "Tanaman Hias Indoor"
-  - "Penyiraman Tanaman"
-description: "Pelajari cara menyiram tanaman hias indoor agar tidak busuk akar dengan teknik bottom watering, frekuensi tepat, dan media tanam porous. Simak panduan lengkapnya!"
+  - Tanaman Hias Indoor
+  - Penyiraman Tanaman
 ---
 
 ## Mengapa Menyiram Tanaman Hias Indoor Tidak Boleh Asal-asalan?
