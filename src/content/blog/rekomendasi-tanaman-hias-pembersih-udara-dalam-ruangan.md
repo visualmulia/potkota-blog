@@ -1,12 +1,14 @@
 ---
-title: "10 Rekomendasi Tanaman Hias Pembersih Udara Dalam Ruangan untuk Hunian Sehat"
-date: "2026-08-12"
-author: "Admin"
-featured_image: ""
+title: 10 Rekomendasi Tanaman Hias Pembersih Udara Dalam Ruangan untuk Hunian Sehat
+date: 2026-08-12
+author: Admin
+featured_image: /images/uploads/10-tanaman-terbaik-untuk-udara-segar.jpg
+description: Cari tanaman hias pembersih udara dalam ruangan? Ini 10 rekomendasi
+  terbaik versi studi NASA, dari lidah mertua, peace lily, hingga sirih gading.
+  Simak cara merawatnya!
 tags:
-  - "tanaman hias"
-  - "pembersih udara"
-description: "Cari tanaman hias pembersih udara dalam ruangan? Ini 10 rekomendasi terbaik versi studi NASA, dari lidah mertua, peace lily, hingga sirih gading. Simak cara merawatnya!"
+  - tanaman hias
+  - pembersih udara
 ---
 
 Polusi udara tidak hanya terjadi di luar ruangan. Di dalam rumah, berbagai senyawa berbahaya seperti formaldehida, benzena, dan trichloroethylene dapat terakumulasi dari furnitur, cat dinding, produk pembersih, hingga asap rokok. Paparan jangka panjang terhadap polutan ini dapat memicu Sick Building Syndrome dengan gejala sakit kepala, pusing, mual, dan iritasi mata. Solusi alami yang efektif dan estetis adalah menempatkan tanaman hias pembersih udara dalam ruangan. Berdasarkan studi NASA Clean Air Study, beberapa tanaman terbukti mampu menyerap polutan dan meningkatkan kualitas udara. Artikel ini akan membahas 10 rekomendasi tanaman terbaik, lengkap dengan manfaat, cara perawatan, dan tabel perbandingan untuk memudahkan Anda memilih.
