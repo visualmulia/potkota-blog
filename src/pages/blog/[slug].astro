@@ -7,12 +7,18 @@ export async function getStaticPaths() {
 	const posts = await getCollection('blog');
 	return posts.map((post) => ({
 		params: { slug: post.slug },
-		props: { post },
+		props: { post, allPosts: posts },
 	}));
 }
 
-const { post } = Astro.props;
+const { post, allPosts = [] } = Astro.props;
 const { Content } = await post.render();
+
+// Related posts (excluding current post, max 3)
+const relatedPosts = allPosts
+	.filter((p) => p.slug !== post.slug)
+	.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+	.slice(0, 3);
 
 // JSON-LD Article Schema
 const schema = {
@@ -82,6 +88,19 @@ const formatDate = (dateStr: string | Date) => {
 			<div class="post-content">
 				<Content />
 			</div>
+
+			<!-- Author Bio Box -->
+			<div class="author-box">
+				<div class="author-avatar">PK</div>
+				<div class="author-details">
+					<span class="author-badge">Dewan Redaksi</span>
+					<h3 class="author-name">Tim Redaksi PotKota</h3>
+					<p class="author-desc">
+						Praktisi dan kurator <em>urban gardening</em> perkotaan. Mendedikasikan diri untuk menyajikan panduan botani tropis, teknik perawatan tanaman hias indoor, peracikan media tanam porous, dan solusi berkebun di lahan sempit.
+					</p>
+					<a href="/about" class="author-link">Pelajari Visi & Standar Editorial Kami &rarr;</a>
+				</div>
+			</div>
 			
 			<div class="post-share">
 				<span class="share-title">Bagikan artikel ini:</span>
@@ -100,6 +119,22 @@ const formatDate = (dateStr: string | Date) => {
 					</a>
 				</div>
 			</div>
+
+			<!-- Related Articles Section -->
+			{relatedPosts.length > 0 && (
+				<div class="related-section">
+					<h3 class="related-title">Artikel Terkait Seputar Tanaman Hias</h3>
+					<div class="related-grid">
+						{relatedPosts.map((item) => (
+							<a href={`/blog/${item.slug}`} class="related-card">
+								<span class="related-date">{formatDate(item.data.date)}</span>
+								<h4 class="related-post-title">{item.data.title}</h4>
+								<span class="related-read">Baca Panduan &rarr;</span>
+							</a>
+						))}
+					</div>
+				</div>
+			)}
 		</div>
 	</article>
 </Layout>
@@ -342,7 +377,149 @@ const formatDate = (dateStr: string | Date) => {
 	.share-btn.telegram { background-color: #0088CC; }
 	.share-btn.telegram:hover { background-color: #0077B5; }
 
+	/* Author Bio Box */
+	.author-box {
+		background-color: var(--card-bg);
+		border: 1px solid var(--border-color);
+		border-left: 4px solid var(--accent);
+		border-radius: 12px;
+		padding: 2rem;
+		margin: 3.5rem 0 2rem 0;
+		display: flex;
+		gap: 1.5rem;
+		align-items: flex-start;
+		box-shadow: var(--shadow-sm);
+	}
+
+	.author-avatar {
+		width: 54px;
+		height: 54px;
+		border-radius: 50%;
+		background: var(--accent);
+		color: #FFFFFF;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-weight: 800;
+		font-size: 1.2rem;
+		flex-shrink: 0;
+		box-shadow: var(--shadow-sm);
+	}
+
+	.author-details {
+		display: flex;
+		flex-direction: column;
+		gap: 0.35rem;
+	}
+
+	.author-badge {
+		font-size: 0.75rem;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		color: var(--accent);
+	}
+
+	.author-name {
+		font-size: 1.25rem;
+		font-weight: 700;
+		color: var(--text-primary);
+	}
+
+	.author-desc {
+		font-size: 0.95rem;
+		line-height: 1.6;
+		color: var(--text-secondary);
+		margin: 0.3rem 0;
+	}
+
+	.author-link {
+		font-size: 0.9rem;
+		font-weight: 600;
+		color: var(--accent);
+		display: inline-flex;
+		align-items: center;
+		margin-top: 0.25rem;
+	}
+
+	.author-link:hover {
+		color: var(--accent-hover);
+		text-decoration: underline;
+	}
+
+	/* Related Articles Section */
+	.related-section {
+		margin-top: 4rem;
+		padding-top: 3rem;
+		border-top: 1px solid var(--border-color);
+	}
+
+	.related-title {
+		font-size: 1.5rem;
+		font-weight: 750;
+		margin-bottom: 1.75rem;
+		letter-spacing: -0.5px;
+	}
+
+	.related-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+		gap: 1.5rem;
+	}
+
+	.related-card {
+		background: var(--card-bg);
+		border: 1px solid var(--border-color);
+		border-radius: 10px;
+		padding: 1.5rem;
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		transition: var(--transition);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.related-card:hover {
+		transform: translateY(-3px);
+		border-color: var(--accent);
+		box-shadow: var(--shadow-md);
+	}
+
+	.related-date {
+		font-size: 0.8rem;
+		color: var(--text-secondary);
+		font-weight: 500;
+	}
+
+	.related-post-title {
+		font-size: 1.05rem;
+		font-weight: 700;
+		line-height: 1.4;
+		color: var(--text-primary);
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.related-card:hover .related-post-title {
+		color: var(--accent);
+	}
+
+	.related-read {
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: var(--accent);
+		margin-top: auto;
+		padding-top: 0.5rem;
+	}
+
 	@media (max-width: 768px) {
+		.author-box {
+			flex-direction: column;
+			gap: 1rem;
+			padding: 1.5rem;
+		}
 		.post-title {
 			font-size: 2.25rem;
 		}
