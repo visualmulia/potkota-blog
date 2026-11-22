@@ -33,7 +33,7 @@ Siram saat media tanam mulai mengering (cek dengan jari sedalam 2-3 cm). Jangan 
 
 ### 4. Media Tanam yang Porous
 
-Gunakan campuran tanah, sekam bakar, dan perlite atau cocopeat dengan perbandingan 1:1:1. Media yang gembur memungkinkan akar bernapas dan menyerap nutrisi optimal.
+Gunakan racikan tanah gembur, sekam bakar, dan perlite atau cocopeat dengan perbandingan 1:1:1 sebagaimana diuraikan dalam [panduan membuat media tanam subur untuk tanaman pot](/blog/panduan-membuat-media-tanam-subur-untuk-tanaman-pot). Media yang gembur dan porous memungkinkan akar monstera bernapas bebas dan menyerap nutrisi optimal tanpa risiko membusuk.
 
 ### 5. Pemupukan Rutin
 
@@ -41,7 +41,7 @@ Berikan pupuk seimbang (NPK 20-20-20) setiap 2 minggu sekali selama musim tanam 
 
 ### 6. Pemangkasan Daun Tua
 
-Potong daun yang sudah kuning atau rusak agar energi tanaman fokus ke pertumbuhan daun baru. Pemangkasan juga merangsang munculnya tunas baru yang lebih kuat.
+Potong daun yang sudah kuning atau rusak agar energi tanaman fokus ke pertumbuhan daun baru. Potongan batang berakar angin hasil pangkasan juga bisa Anda kembangkan kembali melalui [cara memperbanyak propagasi tanaman hias air mudah](/blog/cara-memperbanyak-propagasi-tanaman-hias-air-mudah) untuk memperbanyak koleksi di rumah.
 
 ## Tabel Perbandingan Kondisi Optimal vs. Suboptimal
 

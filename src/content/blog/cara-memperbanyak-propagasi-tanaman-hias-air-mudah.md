@@ -25,10 +25,10 @@ Beberapa jenis tanaman hias air sangat mudah diperbanyak dengan cara ini. Beriku
 
 - **Sirih Gading (Epipremnum aureum)**: Cukup potong batang di bawah node, letakkan di air, akar akan tumbuh dalam 1-2 minggu.
 - **Philodendron**: Hampir semua varietas philodendron mudah berakar di air.
-- **Monstera deliciosa**: Potong batang dengan minimal satu node, rendam di air.
+- **Monstera deliciosa**: Potong batang dengan minimal satu node dan akar angin, rendam di air. Simak juga panduan [cara merawat monstera deliciosa agar daun cepat pecah](/blog/cara-merawat-monstera-deliciosa-agar-daun-cepat-pecah).
 - **Pothos**: Mirip sirih gading, sangat mudah dan cepat berakar.
-- **Lidah Mertua (Sansevieria)**: Potong daun, rendam bagian bawahnya di air.
-- **Peace Lily (Spathiphyllum)**: Bisa diperbanyak dengan pemisahan anakan atau potongan batang.
+- **Lidah Mertua (Sansevieria)**: Potong daun menjadi segmen 10 cm, rendam bagian bawahnya di air.
+- **Peace Lily (Spathiphyllum)**: Bisa diperbanyak dengan pemisahan anakan atau potongan rimpang.
 
 ## Langkah-Langkah Mudah Memperbanyak Propagasi Tanaman Hias Air
 
@@ -53,7 +53,7 @@ Masukkan potongan batang ke dalam air, pastikan node terendam. Letakkan wadah di
 Ganti air setiap 2-3 hari sekali atau minimal seminggu sekali untuk mencegah pertumbuhan bakteri dan lumut. Menurut sumber, mengganti air sehari sekali atau dua-tiga hari sekali dapat menjaga kualitas air.
 
 ### 7. Tunggu Akar Tumbuh
-Akar biasanya muncul dalam 1-4 minggu, tergantung jenis tanaman. Setelah akar mencapai panjang 5-10 cm, Anda bisa memindahkannya ke tanah atau tetap di air dengan nutrisi tambahan.
+Akar biasanya muncul dalam 1-4 minggu, tergantung jenis tanaman. Setelah akar mencapai panjang 5-10 cm, Anda bisa memindahkannya ke pot tanah gembur atau melanjutkan budidaya tanpa tanah lewat [panduan bercocok tanam hidroponik sederhana di rumah](/blog/panduan-bercocok-tanam-hidroponik-sederhana-di-rumah).
 
 ## Perbandingan Metode Propagasi: Air vs Tanah vs Media Lain
 

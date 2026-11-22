@@ -11,7 +11,7 @@ description: "Panduan lengkap bercocok tanam hidroponik sederhana di rumah. Mula
 
 ## Apa Itu Hidroponik dan Mengapa Cocok untuk Rumah?
 
-Hidroponik adalah metode bercocok tanam tanpa menggunakan tanah, di mana tanaman mendapatkan nutrisi dari larutan air yang kaya akan unsur hara. Metode ini sangat cocok untuk rumah karena tidak memerlukan lahan luas, hemat air, dan bisa dilakukan di dalam ruangan atau di teras sempit. Dengan hidroponik, Anda dapat menanam sayuran segar seperti selada, kangkung, bayam, dan pakcoy sepanjang tahun tanpa khawatir cuaca.
+Hidroponik adalah metode bercocok tanam tanpa menggunakan tanah, di mana tanaman mendapatkan nutrisi dari larutan air yang kaya akan unsur hara. Konsep pemanfaatan air sebagai media tumbuh ini juga mirip dengan [cara memperbanyak propagasi tanaman hias air mudah](/blog/cara-memperbanyak-propagasi-tanaman-hias-air-mudah) yang populer untuk tanaman hias indoor. Metode ini sangat cocok untuk rumah karena tidak memerlukan lahan luas, hemat air, dan bisa dilakukan di dalam ruangan atau di teras sempit. Dengan hidroponik, Anda dapat menanam sayuran segar seperti selada, kangkung, bayam, dan pakcoy sepanjang tahun tanpa khawatir cuaca.
 
 ### Manfaat Hidroponik untuk Rumah Tangga
 
@@ -113,4 +113,4 @@ Gunakan nutrisi hidroponik sesuai dosis. pH ideal untuk hidroponik adalah 5.5-6.
 
 ## Kesimpulan
 
-Bercocok tanam hidroponik sederhana di rumah adalah kegiatan yang menyenangkan, hemat biaya, dan ramah lingkungan. Dengan memilih sistem yang tepat, menyiapkan alat sederhana, dan merawat tanaman secara rutin, Anda dapat menikmati panen sayuran segar sendiri. Mulailah dengan sistem wick yang mudah, dan seiring pengalaman, Anda dapat beralih ke sistem yang lebih canggih. Selamat mencoba!
+Bercocok tanam hidroponik sederhana di rumah adalah kegiatan yang menyenangkan, hemat biaya, dan ramah lingkungan. Dengan memilih sistem yang tepat, menyiapkan alat sederhana, dan merawat tanaman secara rutin, Anda dapat menikmati panen sayuran segar sendiri. Selain hidroponik untuk sayuran hijau, Anda juga dapat memperkaya pekarangan dengan [menanam tanaman obat keluarga di pot rumah](/blog/tanaman-obat-keluarga-yang-wajib-ditanam-di-pot-rumah) sebagai apotek hidup mandiri. Mulailah dengan sistem wick yang mudah, dan seiring pengalaman, Anda dapat beralih ke sistem yang lebih canggih. Selamat mencoba!

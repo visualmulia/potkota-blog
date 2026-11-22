@@ -14,7 +14,7 @@ Menanam tomat di pot adalah solusi tepat bagi pemula yang ingin berkebun di laha
 
 ## Mengapa Menanam Tomat di Pot?
 
-Menanam tomat di pot memungkinkan siapa saja, termasuk pemula, untuk menikmati hasil berkebun tanpa memerlukan lahan luas. Tomat cocok ditanam di pot karena pertumbuhannya yang relatif cepat dan mudah diatur. Selain itu, pot dapat dipindahkan sesuai kebutuhan sinar matahari.
+Menanam tomat di pot memungkinkan siapa saja, termasuk pemula, untuk menikmati hasil berkebun tanpa memerlukan lahan luas. Tomat cocok ditanam di pot karena pertumbuhannya yang relatif cepat dan mudah diatur. Selain sayuran buah seperti tomat, Anda juga bisa melengkapi pekarangan dengan [menanam tanaman obat keluarga di pot rumah](/blog/tanaman-obat-keluarga-yang-wajib-ditanam-di-pot-rumah) agar halaman rumah semakin produktif dan multifungsi. Selain itu, pot dapat dipindahkan sesuai kebutuhan sinar matahari.
 
 ## Persiapan Sebelum Menanam
 
@@ -28,7 +28,7 @@ Pot untuk tomat sebaiknya berukuran minimal 15 liter atau diameter 30 cm. Pastik
 
 ### Menyiapkan Media Tanam
 
-Gunakan campuran tanah, kompos, dan sekam bakar dengan perbandingan 2:1:1. Media ini kaya nutrisi dan memiliki drainase yang baik. Tambahkan pupuk kandang atau pupuk slow-release untuk menyediakan nutrisi jangka panjang.
+Gunakan campuran tanah, kompos, dan sekam bakar dengan perbandingan 2:1:1. Media ini kaya nutrisi dan memiliki drainase yang baik. Tambahkan pupuk kandang atau pupuk slow-release untuk menyediakan nutrisi jangka panjang. Anda juga bisa menyimak racikan komposisi selengkapnya pada [panduan membuat media tanam subur untuk tanaman pot](/blog/panduan-membuat-media-tanam-subur-untuk-tanaman-pot).
 
 ![Potongan melintang pot terakota berisi media tanam dengan lubang drainase di dasar.](/images/uploads/terracotta-pot-with-proper-drainage-2.png)
 

@@ -15,7 +15,7 @@ Menanam tanaman obat keluarga (TOGA) di pot rumah adalah cara cerdas untuk memil
 
 ## Mengapa Menanam TOGA di Pot Rumah?
 
-Menanam TOGA di pot rumah memberikan banyak keuntungan, terutama bagi Anda yang tinggal di perkotaan dengan lahan terbatas. Pertama, Anda bisa mengontrol media tanam dan nutrisi sehingga tanaman tumbuh optimal. Kedua, pot mudah dipindahkan sesuai kebutuhan sinar matahari. Ketiga, TOGA di pot dapat menjadi dekorasi alami yang memperindah teras atau balkon. Dengan menanam sendiri, Anda juga memastikan tanaman bebas pestisida kimia berbahaya.
+Menanam TOGA di pot rumah memberikan banyak keuntungan, terutama bagi Anda yang tinggal di perkotaan dengan lahan terbatas. Pertama, Anda bisa mengontrol media tanam dan nutrisi sehingga tanaman tumbuh optimal—mirip seperti konsep urban farming pada [panduan menanam tomat di pot untuk pemula](/blog/panduan-menanam-tomat-di-pot-untuk-pemula). Kedua, pot mudah dipindahkan sesuai kebutuhan sinar matahari. Ketiga, TOGA di pot dapat menjadi dekorasi alami yang memperindah teras atau balkon. Dengan menanam sendiri, Anda juga memastikan tanaman bebas pestisida kimia berbahaya.
 
 ## 7 Tanaman Obat Keluarga yang Wajib Ditanam di Pot Rumah
 
@@ -78,4 +78,4 @@ Dengan menanam TOGA di pot rumah, Anda tidak hanya mendapatkan manfaat kesehatan
 
 ## Kesimpulan
 
-Menanam tanaman obat keluarga di pot rumah adalah investasi kesehatan yang mudah dan murah. Dengan memilih tanaman yang tepat dan merawatnya dengan baik, Anda bisa memiliki apotek hidup sendiri di rumah. Mulailah dengan tanaman yang mudah seperti jahe, kunyit, dan serai, lalu kembangkan dengan tanaman lain sesuai kebutuhan. Selamat menanam dan hidup lebih sehat secara alami!
+Menanam tanaman obat keluarga di pot rumah adalah investasi kesehatan yang mudah dan murah. Dengan memilih tanaman yang tepat dan merawatnya dengan baik, Anda bisa memiliki apotek hidup sendiri di rumah. Bila Anda juga tertarik mencoba menanam sayuran daun tanpa media tanah sama sekali, baca juga [panduan bercocok tanam hidroponik sederhana di rumah](/blog/panduan-bercocok-tanam-hidroponik-sederhana-di-rumah). Mulailah dengan tanaman yang mudah seperti jahe, kunyit, dan serai, lalu kembangkan dengan tanaman lain sesuai kebutuhan. Selamat menanam dan hidup lebih sehat secara alami!

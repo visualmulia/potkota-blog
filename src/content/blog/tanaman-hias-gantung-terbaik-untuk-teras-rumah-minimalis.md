@@ -19,7 +19,7 @@ Teras rumah minimalis seringkali memiliki lahan terbatas, sehingga penempatan po
 
 ### 1. Sirih Gading (Epipremnum aureum)
 
-**Sirih gading adalah tanaman gantung yang paling mudah dirawat dan tahan terhadap berbagai kondisi cahaya.** Tanaman ini memiliki daun berbentuk hati dengan warna hijau cerah atau varigata (belang putih/kuning). Sirih gading dapat tumbuh merambat hingga beberapa meter, sehingga cocok digantung di teras dengan pot gantung.
+**Sirih gading adalah tanaman gantung yang paling mudah dirawat dan tahan terhadap berbagai kondisi cahaya.** Menjadi salah satu varietas unggulan di [rekomendasi tanaman hias indoor yang mudah dirawat](/blog/rekomendasi-tanaman-hias-indoor-yang-mudah-dirawat), sirih gading memiliki daun berbentuk hati dengan corak varigata yang anggun menjuntai ke bawah saat ditanam dalam pot gantung.
 
 - **Kelebihan:** Toleran terhadap cahaya rendah, tidak perlu sering disiram, mampu membersihkan udara dari polutan seperti formaldehida.
 - **Kekurangan:** Pertumbuhannya cepat sehingga perlu pemangkasan rutin.
@@ -55,7 +55,7 @@ Teras rumah minimalis seringkali memiliki lahan terbatas, sehingga penempatan po
 
 - **Kelebihan:** Bunga tahan lama, cocok untuk iklim lembap.
 - **Kekurangan:** Rentan terhadap busuk akar jika terlalu banyak air.
-- **Tips perawatan:** Gunakan media tanam yang porous, siram secukupnya, letakkan di tempat dengan cahaya terang namun tidak langsung.
+- **Tips perawatan:** Gunakan media porous sesuai [panduan membuat media tanam subur untuk tanaman pot](/blog/panduan-membuat-media-tanam-subur-untuk-tanaman-pot), siram secukupnya, dan letakkan di tempat dengan cahaya terang terfilter.
 
 ### 6. Lobelia
 

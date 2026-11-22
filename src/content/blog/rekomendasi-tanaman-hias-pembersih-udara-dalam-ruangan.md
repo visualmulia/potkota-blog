@@ -21,7 +21,7 @@ Tanaman memiliki kemampuan alami untuk menyerap karbon dioksida dan melepaskan o
 
 ### 1. Lidah Mertua (Sansevieria trifasciata)
 
-Lidah mertua atau snake plant adalah juara dalam hal ketahanan. Tanaman ini mampu bertahan dalam kondisi minim cahaya dan jarang disiram, menjadikannya pilihan ideal bagi pemula. Menurut studi NASA, lidah mertua efektif menyerap formaldehida, benzena, xylene, dan trichloroethylene. Keunikannya, lidah mertua melepaskan oksigen pada malam hari, sehingga sangat cocok ditempatkan di kamar tidur untuk meningkatkan kualitas tidur.
+Lidah mertua atau snake plant adalah juara dalam hal ketahanan. Anda bisa membaca panduan lengkap [cara merawat sanseviera lidah mertua agar tumbuh subur](/blog/cara-merawat-sanseviera-lidah-mertua-agar-tumbuh-subur). Tanaman ini mampu bertahan dalam kondisi minim cahaya dan jarang disiram, menjadikannya pilihan ideal bagi pemula. Menurut studi NASA, lidah mertua efektif menyerap formaldehida, benzena, xylene, dan trichloroethylene. Keunikannya, lidah mertua melepaskan oksigen pada malam hari, sehingga sangat cocok ditempatkan di kamar tidur untuk meningkatkan kualitas tidur.
 
 **Cara Merawat:** Letakkan di tempat dengan sinar matahari tidak langsung. Siram hanya saat tanah benar-benar kering (sekitar 2-3 minggu sekali). Hindari penyiraman berlebihan karena dapat menyebabkan akar busuk.
 
@@ -33,13 +33,13 @@ Peace lily memiliki bunga putih elegan dan daun hijau mengkilap. Tanaman ini san
 
 ### 3. Sirih Gading (Epipremnum aureum)
 
-Sirih gading atau devil's ivy adalah tanaman merambat yang populer sebagai hiasan gantung. Tanaman ini mampu menyerap formaldehida, benzena, dan xylene. Perawatannya sangat mudah, tumbuh subur di berbagai kondisi cahaya, termasuk cahaya rendah. Sirih gading juga dapat membantu mengurangi debu di udara.
+Sirih gading atau devil's ivy adalah tanaman merambat yang populer sebagai salah satu [tanaman hias gantung terbaik untuk teras rumah minimalis](/blog/tanaman-hias-gantung-terbaik-untuk-teras-rumah-minimalis) maupun indoor. Tanaman ini mampu menyerap formaldehida, benzena, dan xylene. Perawatannya sangat mudah, tumbuh subur di berbagai kondisi cahaya, termasuk cahaya rendah. Sirih gading juga dapat membantu mengurangi debu di udara.
 
 **Cara Merawat:** Siram saat tanah mulai kering. Tanaman ini toleran terhadap kekeringan, tetapi lebih baik menjaga kelembapan tanah. Pangkas batang yang terlalu panjang untuk merangsang pertumbuhan.
 
 ### 4. Lidah Buaya (Aloe vera)
 
-Selain dikenal sebagai tanaman obat, lidah buaya juga merupakan pembersih udara yang efektif. Tanaman ini menyerap formaldehida dan benzena yang sering ditemukan pada cat dan produk pembersih. Lidah buaya membutuhkan sinar matahari yang cukup, sehingga cocok diletakkan di dekat jendela.
+Selain dikenal sebagai tanaman herbal utama dalam [tanaman obat keluarga yang wajib ditanam di pot rumah](/blog/tanaman-obat-keluarga-yang-wajib-ditanam-di-pot-rumah), lidah buaya juga merupakan pembersih udara yang efektif. Tanaman ini menyerap formaldehida dan benzena yang sering ditemukan pada cat dan produk pembersih. Lidah buaya membutuhkan sinar matahari yang cukup, sehingga cocok diletakkan di dekat jendela.
 
 **Cara Merawat:** Siram secara teratur, tetapi biarkan tanah mengering di antara penyiraman. Pastikan pot memiliki drainase baik untuk mencegah genangan air.
 

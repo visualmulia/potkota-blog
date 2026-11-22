@@ -17,7 +17,7 @@ Daun menguning adalah sinyal bahwa tanaman sedang stres. Penyebabnya bisa beraga
 
 ### 1. Penyiraman yang Tidak Tepat
 
-Kelebihan atau kekurangan air adalah penyebab paling sering. Tanaman yang terlalu banyak air akan mengalami busuk akar, sehingga daun menguning dan layu. Sebaliknya, kekurangan air membuat daun kering dan menguning di tepinya.
+Kelebihan atau kekurangan air adalah penyebab paling sering. Anda bisa mempelajari panduan [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar) untuk memahami teknik dan frekuensi yang aman. Tanaman yang terlalu banyak air akan mengalami pembusukan akar, sehingga daun menguning dan layu secara serentak. Sebaliknya, kekurangan air membuat daun kering dan menguning di tepinya.
 
 **Cara mengatasi:** Pastikan media tanam memiliki drainase baik. Siram hanya saat lapisan atas tanah sudah kering. Untuk tanaman dalam pot, gunakan pot berlubang dan jangan biarkan air menggenang di piring pot.
 
@@ -35,9 +35,9 @@ Tanaman hias memiliki kebutuhan cahaya berbeda. Jika terlalu sedikit cahaya, dau
 
 ### 4. Serangan Hama dan Penyakit
 
-Hama seperti kutu daun, tungau, dan ulat dapat merusak daun sehingga menguning. Penyakit jamur juga bisa menyebabkan bercak kuning.
+Hama seperti tungau, ulat, dan kutu lilin dapat mengisap cairan sel hingga daun menguning layu. Simak cara tuntas [membasmi kutu putih pada tanaman hias pot](/blog/cara-membasmi-kutu-putih-pada-tanaman-hias-pot) menggunakan bahan organik rumahan yang aman bagi daun.
 
-**Cara mengatasi:** Periksa daun secara rutin. Jika ada hama, bersihkan dengan kapas yang dibasahi alkohol atau gunakan insektisida organik. Untuk penyakit jamur, gunakan fungisida dan pastikan sirkulasi udara baik.
+**Cara mengatasi:** Periksa daun secara rutin, terutama permukaan bawah daun. Jika ada hama, bersihkan dengan kapas yang dibasahi alkohol atau gunakan insektisida organik. Untuk penyakit jamur, gunakan fungisida dan pastikan sirkulasi udara baik.
 
 ### 5. Suhu dan Kelembapan yang Tidak Stabil
 

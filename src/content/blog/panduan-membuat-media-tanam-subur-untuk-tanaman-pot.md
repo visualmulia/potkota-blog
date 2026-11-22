@@ -44,7 +44,7 @@ Ayak tanah dan pupuk kandang untuk memisahkan batu, kerikil, atau kotoran kasar.
 
 ### 3. Campur dengan Perbandingan Tepat
 
-Untuk tanaman hias daun (seperti aglonema, monstera), gunakan perbandingan 1:1:1 (tanah:pupuk:sekam). Untuk tanaman buah dalam pot (tabulampot), tambahkan pupuk kandang lebih banyak, misal 1:2:1. Aduk rata menggunakan sekop atau tangan (pakai sarung tangan).
+Untuk tanaman hias daun (seperti aglonema dan monstera), gunakan perbandingan 1:1:1 (tanah:pupuk:sekam). Formula gembur ini sangat ideal diterapkan bersamaan dengan [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar). Sementara itu, untuk tanaman buah atau sayur seperti pada [panduan menanam tomat di pot untuk pemula](/blog/panduan-menanam-tomat-di-pot-untuk-pemula), tambahkan pupuk kandang matang lebih banyak (1:2:1) guna menyuplai nutrisi selama fase pembungaan dan pembuahan. Aduk rata menggunakan sekop atau sarung tangan.
 
 ### 4. Sterilisasi Media (Opsional)
 

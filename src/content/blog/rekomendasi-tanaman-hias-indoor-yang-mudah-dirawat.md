@@ -23,7 +23,7 @@ Sirih gading adalah tanaman merambat yang sangat adaptif. Ia bisa tumbuh subur d
 Peace lily memiliki bunga putih yang elegan dan daun hijau gelap. Tanaman ini menyukai tempat teduh dan kelembapan tinggi. Siram secara teratur, tetapi jangan sampai tergenang. Peace lily juga efektif menyaring udara, menjadikannya pilihan tepat untuk kamar tidur atau ruang tamu.
 
 ### 4. Monstera Deliciosa
-Monstera terkenal dengan daunnya yang berlubang unik. Tanaman ini tumbuh baik di tempat dengan cahaya tidak langsung terang. Siram saat lapisan atas tanah kering. Monstera bisa menjadi focal point yang menarik di ruangan Anda.
+Monstera terkenal dengan daunnya yang berlubang unik. Anda bisa mempelajari rahasia [cara merawat monstera deliciosa agar daun cepat pecah](/blog/cara-merawat-monstera-deliciosa-agar-daun-cepat-pecah) agar daun barunya tampil lebar dan robek sempurna. Tanaman ini tumbuh baik di tempat dengan cahaya tidak langsung terang. Siram saat lapisan atas tanah kering.
 
 ### 5. Aglaonema (Sri Rejeki)
 Aglaonema memiliki daun berwarna-warni yang cantik, seperti hijau, merah, atau perak. Tanaman ini sangat toleran terhadap kondisi cahaya rendah dan tidak rewel. Siram secukupnya, jangan terlalu basah. Aglaonema dipercaya membawa keberuntungan, sesuai dengan namanya "Sri Rejeki".
@@ -32,7 +32,7 @@ Aglaonema memiliki daun berwarna-warni yang cantik, seperti hijau, merah, atau p
 Aloe vera tidak hanya sebagai tanaman hias, tetapi juga memiliki manfaat kesehatan. Gelnya dapat digunakan untuk mengobati luka bakar. Tanaman ini menyukai cahaya terang, tetapi bisa bertahan di tempat teduh. Siram hanya saat tanah benar-benar kering, sekitar 2-3 minggu sekali.
 
 ### 7. Spider Plant (Lili Paris)
-Spider plant memiliki daun panjang bergaris hijau-putih yang menjuntai. Tanaman ini sangat mudah dirawat dan cepat berkembang biak dengan menghasilkan tunas. Cocok diletakkan di rak atau digantung. Siram secara teratur, tetapi biarkan tanah mengering di antara penyiraman.
+Spider plant memiliki daun panjang bergaris hijau-putih yang menjuntai. Menariknya, lili paris juga termasuk dalam [rekomendasi tanaman hias minim cahaya untuk kamar mandi](/blog/rekomendasi-tanaman-hias-minim-cahaya-untuk-kamar-mandi) yang efektif menyerap kelembapan. Tanaman ini sangat mudah dirawat dan cepat berkembang biak dengan menghasilkan anakan gantung.
 
 ### 8. Palem Kuning
 Palem kuning memberikan nuansa tropis di dalam ruangan. Tanaman ini menyukai cahaya terang tidak langsung dan kelembapan tinggi. Semprot daunnya secara rutin untuk menjaga kelembapan. Siram saat tanah mulai kering.

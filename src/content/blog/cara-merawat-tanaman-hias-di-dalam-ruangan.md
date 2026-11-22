@@ -21,7 +21,7 @@ Tanaman hias dalam ruangan (indoor) hidup di lingkungan yang berbeda dengan tana
 
 ### 1. Penyiraman yang Tepat
 
-Kesalahan paling umum adalah terlalu sering menyiram. Tanaman indoor umumnya tidak membutuhkan air sebanyak tanaman outdoor. Siramlah hanya saat media tanam mulai kering. Cara mudah mengeceknya: masukkan jari ke dalam tanah sedalam 2-3 cm. Jika terasa kering, saatnya menyiram. Pagi hari adalah waktu terbaik untuk menyiram karena air dapat meresap sempurna sebelum menguap.
+Kesalahan paling umum adalah terlalu sering menyiram. Pelajari panduan lengkap [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar). Tanaman indoor umumnya tidak membutuhkan air sebanyak tanaman outdoor. Siramlah hanya saat media tanam mulai kering. Cara mudah mengeceknya: masukkan jari ke dalam tanah sedalam 2-3 cm. Jika terasa kering, saatnya menyiram. Pagi hari adalah waktu terbaik untuk menyiram karena air dapat meresap sempurna sebelum menguap.
 
 ### 2. Pencahayaan yang Cukup
 
@@ -44,7 +44,7 @@ Gunakan media tanam yang porous dan memiliki drainase baik, seperti campuran tan
 
 ### 6. Waspadai Hama dan Penyakit
 
-Periksa tanaman secara berkala untuk mendeteksi hama seperti kutu daun atau tungau. Jika ditemukan, segera isolasi tanaman dan bersihkan dengan air sabun atau insektisida alami.
+Periksa tanaman secara berkala untuk mendeteksi gejala stres seperti [daun menguning pada tanaman hias](/blog/cara-mengatasi-daun-menguning-pada-tanaman-hias) atau serangan kutu daun dan thrips. Jika ditemukan hama, segera isolasi tanaman dan bersihkan dengan air sabun atau insektisida alami.
 
 ## Tabel Perbandingan Kebutuhan Tanaman Indoor Populer
 

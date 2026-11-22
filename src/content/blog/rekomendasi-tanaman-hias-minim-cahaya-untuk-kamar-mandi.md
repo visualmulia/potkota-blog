@@ -29,7 +29,7 @@ Berikut adalah rekomendasi tanaman hias minim cahaya untuk kamar mandi yang suda
 
 ### 1. Lidah Mertua (Sansevieria trifasciata)
 
-Lidah mertua adalah juara untuk ruangan minim cahaya. Tanaman ini mampu bertahan hidup dengan cahaya lampu saja dan sangat toleran terhadap kekeringan. Daunnya yang tebal dan tegak membuatnya cocok sebagai aksen modern di kamar mandi. Menurut sumber, lidah mertua direkomendasikan untuk kamar mandi karena tahan hidup dalam kondisi redup. Siram hanya ketika tanah benar-benar kering, biasanya setiap 2-3 minggu sekali.
+Lidah mertua adalah juara untuk ruangan minim cahaya. Anda bisa membaca panduan [cara merawat sanseviera lidah mertua agar tumbuh subur](/blog/cara-merawat-sanseviera-lidah-mertua-agar-tumbuh-subur). Tanaman ini mampu bertahan hidup dengan cahaya lampu saja dan sangat toleran terhadap kekeringan. Daunnya yang tebal dan tegak membuatnya cocok sebagai aksen modern di kamar mandi. Menurut sumber, lidah mertua direkomendasikan untuk kamar mandi karena tahan hidup dalam kondisi redup. Siram hanya ketika tanah benar-benar kering, biasanya setiap 2-3 minggu sekali.
 
 ### 2. ZZ Plant (Zamioculcas zamiifolia)
 
@@ -74,7 +74,7 @@ Agar tanaman tetap sehat, ikuti tips berikut:
 - **Gunakan pot dengan drainase baik**: Kelembapan tinggi bisa menyebabkan busuk akar jika air tidak mengalir.
 - **Putar tanaman secara berkala**: Agar pertumbuhan merata meski cahaya minim.
 - **Bersihkan daun**: Debu menghambat penyerapan cahaya.
-- **Hindari menyiram berlebihan**: Sesuaikan dengan kebutuhan masing-masing tanaman.
+- **Hindari menyiram berlebihan**: Kelembapan kamar mandi sudah tinggi, sehingga media tanam lebih lambat mengering. Terapkan kaidah [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar).
 - **Tambahkan lampu grow light**: Jika kamar mandi benar-benar gelap, lampu LED tanaman bisa menjadi solusi.
 
 ## Kesimpulan

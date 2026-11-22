@@ -38,7 +38,7 @@ Cara paling akurat untuk menentukan apakah tanaman perlu disiram adalah dengan m
 
 ## 4. Pilih Media Tanam yang Porous
 
-Media tanam yang porous sangat penting untuk mencegah akar busuk. Gunakan campuran cocopeat, sekam bakar, dan perlite agar air cepat meresap dan tidak menggenang. Media tanam yang padat dan berat cenderung menahan air terlalu lama, sehingga akar mudah membusuk.
+Media tanam yang porous sangat penting untuk mencegah akar busuk. Anda bisa mengikuti [panduan membuat media tanam subur untuk tanaman pot](/blog/panduan-membuat-media-tanam-subur-untuk-tanaman-pot) menggunakan campuran cocopeat, sekam bakar, dan perlite agar aerasi lancar dan air tidak menggenang. Media tanam yang padat dan liat cenderung menahan air terlalu lama, sehingga akar mudah membusuk.
 
 Selain itu, pastikan pot memiliki lubang drainase yang cukup. Lubang drainase memungkinkan kelebihan air keluar dari pot, sehingga akar tidak terendam.
 
@@ -52,7 +52,7 @@ Alat penyiram yang tepat akan memudahkan Anda mengontrol jumlah air yang keluar.
 
 ## 7. Cara Mengatasi Akar Busuk Jika Sudah Terjadi
 
-Jika tanaman sudah menunjukkan gejala akar busuk, seperti daun menguning, layu, atau batang lembek, segera lakukan tindakan penyelamatan. Berikut langkah-langkahnya:
+Jika tanaman sudah menunjukkan gejala seperti [daun menguning dan rontok](/blog/cara-mengatasi-daun-menguning-pada-tanaman-hias), batang lembek, atau bau busuk dari media tanam, segera lakukan tindakan penyelamatan. Berikut langkah-langkahnya:
 
 - Keluarkan tanaman dari pot dengan hati-hati.
 - Bersihkan tanah yang menempel pada akar.

@@ -59,7 +59,7 @@ Perangkap ini membantu mengurangi populasi kutu putih dan memantau tingkat infes
 
 **Jawaban singkat:** Pisahkan tanaman yang terinfestasi dari tanaman sehat. Bersihkan daun yang terserang dengan air dan sabun, dan buang bagian yang parah.
 
-Karantina mencegah penyebaran kutu putih ke tanaman lain. Selain itu, jaga kebersihan lingkungan sekitar tanaman, seperti membersihkan gulma dan sisa tanaman yang mungkin menjadi tempat persembunyian kutu.
+Karantina mencegah penyebaran kutu putih ke tanaman lain. Selain itu, jaga kebersihan lingkungan sekitar tanaman. Apabila serangan kutu sudah terlanjur menyebabkan klorosis atau daun rontok, Anda bisa membaca panduan [cara mengatasi daun menguning pada tanaman hias](/blog/cara-mengatasi-daun-menguning-pada-tanaman-hias) agar tanaman lekas pulih dan tumbuh tunas baru.
 
 ## Perbandingan Metode Pengendalian Kutu Putih
 
@@ -75,7 +75,7 @@ Karantina mencegah penyebaran kutu putih ke tanaman lain. Selain itu, jaga keber
 
 ## Tips Mencegah Kutu Putih Kembali
 
-Setelah berhasil membasmi kutu putih, lakukan langkah pencegahan agar tidak kembali. Periksa tanaman baru sebelum membawanya pulang. Jaga kelembapan dan sirkulasi udara yang baik. Hindari pemupukan berlebihan yang dapat membuat tanaman rentan. Lakukan pemeriksaan rutin pada bagian bawah daun.
+Setelah berhasil membasmi kutu putih, lakukan langkah pencegahan agar tidak kembali. Periksa tanaman baru sebelum membawanya pulang. Jaga kelembapan dan sirkulasi udara yang baik sesuai prinsip [cara merawat tanaman hias di dalam ruangan](/blog/cara-merawat-tanaman-hias-di-dalam-ruangan). Hindari pemupukan berlebihan yang dapat membuat tanaman rentan. Lakukan pemeriksaan rutin pada bagian bawah daun.
 
 ## Kapan Harus Menggunakan Jasa Profesional?
 

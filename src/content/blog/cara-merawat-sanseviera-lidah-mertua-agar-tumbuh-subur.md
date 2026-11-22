@@ -13,7 +13,7 @@ tags:
 ---
 ## Mengapa Sanseviera Lidah Mertua Cocok untuk Pemula?
 
-Sanseviera, atau yang akrab dikenal sebagai lidah mertua, adalah tanaman hias yang sangat mudah dirawat dan cocok untuk pemula. Tanaman ini tahan terhadap kondisi kering, cahaya rendah, dan jarang terserang hama. Namun, agar tumbuh subur, tetap diperlukan perawatan yang tepat. Berikut panduan lengkap cara merawat sanseviera lidah mertua agar tumbuh subur.
+Sanseviera, atau yang akrab dikenal sebagai lidah mertua, adalah tanaman hias yang sangat mudah dirawat dan dinobatkan dalam jajaran teratas [rekomendasi tanaman hias pembersih udara dalam ruangan](/blog/rekomendasi-tanaman-hias-pembersih-udara-dalam-ruangan). Tanaman ini terkenal tangguh terhadap kondisi kering, toleran terhadap cahaya rendah, dan jarang rewel. Namun, agar tumbuh rimbun dan subur, tetap diperlukan teknik dasar yang tepat. Berikut panduan lengkap cara merawat sanseviera lidah mertua agar tumbuh subur.
 
 ## Pencahayaan yang Tepat untuk Sanseviera
 
@@ -33,7 +33,7 @@ Sanseviera adalah tanaman yang toleran terhadap berbagai kondisi cahaya. Di habi
 
 **Siram sanseviera hanya ketika media tanam benar-benar kering, biasanya setiap 2-3 minggu sekali. Jangan pernah membiarkan air menggenang di pot karena dapat menyebabkan busuk akar.**
 
-Sanseviera adalah tanaman sukulen yang menyimpan air di dalam daunnya. Penyiraman berlebihan adalah kesalahan paling umum yang menyebabkan tanaman mati. Gunakan pot dengan lubang drainase yang baik dan pastikan media tanam porous. Sebelum menyiram, periksa kelembapan tanah dengan menusukkan jari atau menggunakan moisture meter. Jika tanah masih lembap, tunda penyiraman.
+Sanseviera adalah tanaman sukulen yang menyimpan cadangan air di dalam jaringan daunnya yang tebal. Penyiraman berlebih adalah musuh nomor satu yang paling sering mematikan tanaman ini. Anda bisa menerapkan prinsip [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar). Gunakan pot dengan lubang drainase yang baik dan pastikan media tanam porous. Sebelum menyiram, periksa kelembapan tanah dengan menusukkan jari atau menggunakan moisture meter. Jika tanah masih lembap, tunda penyiraman.
 
 ![Jari mengecek kelembapan media tanam lidah mertua sebelum menyiram.](/images/uploads/snake-plant-watering-check-3.png)
 
