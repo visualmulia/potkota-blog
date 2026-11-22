@@ -1,0 +1,574 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+// Fetch all blog posts
+const posts = await getCollection('blog');
+
+// Define category taxonomies and match posts
+const categories = [
+	{
+		id: 'perawatan-masalah',
+		title: 'Perawatan & Penanganan Masalah Tanaman',
+		icon: '🌿',
+		description: 'Panduan teknik menyiram, meracik media tanam porous, membasmi kutu putih, dan mengatasi daun menguning.',
+		slugs: [
+			'panduan-membuat-media-tanam-subur-untuk-tanaman-pot',
+			'cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar',
+			'cara-mengatasi-daun-menguning-pada-tanaman-hias',
+			'cara-membasmi-kutu-putih-pada-tanaman-hias-pot',
+			'cara-merawat-tanaman-hias-di-dalam-ruangan',
+		]
+	},
+	{
+		id: 'spesies-propagasi',
+		title: 'Spesies Favorit & Propagasi',
+		icon: '🪴',
+		description: 'Cara merawat jenis tanaman populer seperti Monstera dan Sansevieria serta teknik perbanyakan mudah.',
+		slugs: [
+			'cara-merawat-monstera-deliciosa-agar-daun-cepat-pecah',
+			'cara-merawat-sanseviera-lidah-mertua-agar-tumbuh-subur',
+			'cara-memperbanyak-propagasi-tanaman-hias-air-mudah',
+		]
+	},
+	{
+		id: 'rekomendasi-tanaman',
+		title: 'Rekomendasi & Kurasi Tanaman Rumah',
+		icon: '🏡',
+		description: 'Pilihan tanaman pembersih polutan udara, tanaman hias minim cahaya untuk kamar mandi, dan tanaman gantung teras.',
+		slugs: [
+			'rekomendasi-tanaman-hias-pembersih-udara-dalam-ruangan',
+			'rekomendasi-tanaman-hias-indoor-yang-mudah-dirawat',
+			'rekomendasi-tanaman-hias-minim-cahaya-untuk-kamar-mandi',
+			'tanaman-hias-gantung-terbaik-untuk-teras-rumah-minimalis',
+		]
+	},
+	{
+		id: 'urban-farming',
+		title: 'Urban Farming & Apotek Hidup',
+		icon: '🍅',
+		description: 'Bercocok tanam sayuran lebat di pot, budidaya tanaman obat keluarga (TOGA), dan instalasi hidroponik rumahan.',
+		slugs: [
+			'panduan-menanam-tomat-di-pot-untuk-pemula',
+			'tanaman-obat-keluarga-yang-wajib-ditanam-di-pot-rumah',
+			'panduan-bercocok-tanam-hidroponik-sederhana-di-rumah',
+		]
+	}
+];
+
+// Helper to get post by slug
+const getPostBySlug = (slug: string) => posts.find((p) => p.slug === slug);
+
+// Format date helper
+const formatDate = (dateStr: string | Date) => {
+	const options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'short', day: 'numeric' };
+	return new Date(dateStr).toLocaleDateString('id-ID', options);
+};
+---
+
+<Layout 
+	title="Sitemap & Indeks Kategori Lengkap - PotKota" 
+	description="Peta situs dan indeks kategori panduan PotKota. Temukan seluruh artikel perawatan tanaman hias, urban farming, propagasi, dan tanaman indoor dengan mudah.">
+	
+	<!-- Hero Section -->
+	<section class="sitemap-hero">
+		<div class="container hero-inner">
+			<span class="badge">DIREKTORI & PETA SITUS</span>
+			<h1>Sitemap & Indeks Kategori</h1>
+			<p class="lead">
+				Jelajahi seluruh koleksi panduan berkebun perkotaan, tips botani tropis, dan teknik perawatan tanaman hias indoor yang tersusun rapi berdasarkan kategori topik.
+			</p>
+			<div class="hero-stats">
+				<div class="stat-item">
+					<span class="stat-number">{posts.length}</span>
+					<span class="stat-label">Artikel Panduan</span>
+				</div>
+				<div class="stat-item">
+					<span class="stat-number">{categories.length}</span>
+					<span class="stat-label">Klaster Kategori</span>
+				</div>
+				<div class="stat-item">
+					<span class="stat-number">100%</span>
+					<span class="stat-label">Akses Gratis</span>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Main Categories Section -->
+	<section class="sitemap-content">
+		<div class="container content-container">
+
+			<!-- Category Quick Jump Navigation -->
+			<div class="quick-nav">
+				<span class="quick-nav-title">Lompat ke Topik:</span>
+				<div class="quick-nav-links">
+					{categories.map((cat) => (
+						<a href={`#${cat.id}`} class="quick-nav-pill">
+							<span class="pill-icon">{cat.icon}</span>
+							<span>{cat.title}</span>
+						</a>
+					))}
+					<a href="#halaman-utama" class="quick-nav-pill">
+						<span class="pill-icon">📄</span>
+						<span>Halaman Utama</span>
+					</a>
+				</div>
+			</div>
+
+			<!-- Categories Group -->
+			<div class="categories-list">
+				{categories.map((cat) => {
+					const categoryPosts = cat.slugs
+						.map((s) => getPostBySlug(s))
+						.filter(Boolean);
+
+					return (
+						<div id={cat.id} class="category-block">
+							<div class="category-header">
+								<div class="category-title-wrap">
+									<span class="category-icon">{cat.icon}</span>
+									<div>
+										<h2 class="category-title">{cat.title}</h2>
+										<p class="category-desc">{cat.description}</p>
+									</div>
+								</div>
+								<span class="category-count">{categoryPosts.length} Panduan</span>
+							</div>
+
+							<div class="articles-grid">
+								{categoryPosts.map((post) => post && (
+									<article class="article-item">
+										<a href={`/blog/${post.slug}`} class="article-link">
+											<div class="article-info">
+												<div class="article-meta">
+													<span class="article-date">{formatDate(post.data.date)}</span>
+													<span class="article-author">• {post.data.author}</span>
+												</div>
+												<h3 class="article-title">{post.data.title}</h3>
+												<p class="article-snippet">
+													{post.data.description || (post.body ? post.body.slice(0, 110) + '...' : '')}
+												</p>
+											</div>
+											<div class="article-arrow">
+												<span>Baca Panduan</span>
+												<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+											</div>
+										</a>
+									</article>
+								))}
+							</div>
+						</div>
+					);
+				})}
+			</div>
+
+			<!-- Static Pages Directory -->
+			<div id="halaman-utama" class="static-pages-block">
+				<div class="category-header">
+					<div class="category-title-wrap">
+						<span class="category-icon">📄</span>
+						<div>
+							<h2 class="category-title">Halaman Informasi & Legalitas Situs</h2>
+							<p class="category-desc">Struktur navigasi utama, profil redaksi, dan kebijakan kepatuhan Google AdSense.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="pages-grid">
+					<a href="/" class="page-card">
+						<div class="page-title">Beranda (Home)</div>
+						<div class="page-path">potkota.web.id/</div>
+						<p class="page-desc">Halaman depan dengan koleksi artikel terbaru dan fitur kurasi urban gardening.</p>
+					</a>
+					<a href="/search" class="page-card">
+						<div class="page-title">Pencarian Artikel</div>
+						<div class="page-path">potkota.web.id/search</div>
+						<p class="page-desc">Fitur pencarian instan untuk mencari tanaman atau topik spesifik.</p>
+					</a>
+					<a href="/about" class="page-card">
+						<div class="page-title">Tentang Kami (About)</div>
+						<div class="page-path">potkota.web.id/about</div>
+						<p class="page-desc">Visi, misi, standar editorial, dan profil redaksi hortikultura PotKota.</p>
+					</a>
+					<a href="/privacy" class="page-card">
+						<div class="page-title">Kebijakan Privasi (Privacy Policy)</div>
+						<div class="page-path">potkota.web.id/privacy</div>
+						<p class="page-desc">Informasi pengumpulan data, kepatuhan GDPR/CCPA, dan kebijakan cookie Google AdSense.</p>
+					</a>
+					<a href="/terms" class="page-card">
+						<div class="page-title">Syarat & Ketentuan (Terms)</div>
+						<div class="page-path">potkota.web.id/terms</div>
+						<p class="page-desc">Ketentuan pemanfaatan konten, hak cipta botani, dan batasan tanggung jawab.</p>
+					</a>
+					<a href="/disclaimer" class="page-card">
+						<div class="page-title">Disclaimer Hortikultura</div>
+						<div class="page-path">potkota.web.id/disclaimer</div>
+						<p class="page-desc">Pernyataan independensi editorial dan panduan keselamatan botani keluarga.</p>
+					</a>
+					<a href="/contact" class="page-card">
+						<div class="page-title">Hubungi Kami (Contact)</div>
+						<div class="page-path">potkota.web.id/contact</div>
+						<p class="page-desc">Saluran komunikasi pembaca dan formulir konsultasi redaksi.</p>
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</section>
+</Layout>
+
+<style>
+	.sitemap-hero {
+		background: linear-gradient(180deg, #E8F5E9 0%, rgba(244, 246, 244, 0.4) 100%);
+		padding: 4rem 1rem 3.5rem 1rem;
+		text-align: center;
+		border-bottom: 1px solid var(--border-color);
+	}
+
+	.hero-inner {
+		max-width: 800px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1.25rem;
+	}
+
+	.badge {
+		display: inline-block;
+		font-size: 0.8rem;
+		font-weight: 700;
+		letter-spacing: 1.5px;
+		color: var(--accent);
+		background-color: var(--card-bg);
+		padding: 0.35rem 0.85rem;
+		border-radius: 99px;
+		border: 1px solid rgba(46, 125, 50, 0.2);
+	}
+
+	h1 {
+		font-size: 2.8rem;
+		letter-spacing: -1px;
+		color: var(--text-primary);
+		line-height: 1.2;
+	}
+
+	.lead {
+		font-size: 1.15rem;
+		color: var(--text-secondary);
+		line-height: 1.7;
+	}
+
+	.hero-stats {
+		display: flex;
+		gap: 2rem;
+		margin-top: 1rem;
+		padding-top: 1.5rem;
+		border-top: 1px dashed var(--border-color);
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+
+	.stat-item {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.stat-number {
+		font-size: 1.8rem;
+		font-weight: 800;
+		color: var(--accent);
+		font-family: var(--font-display);
+	}
+
+	.stat-label {
+		font-size: 0.85rem;
+		color: var(--text-secondary);
+		font-weight: 500;
+	}
+
+	/* Content Section */
+	.sitemap-content {
+		padding: 3rem 1rem 5rem 1rem;
+	}
+
+	.content-container {
+		max-width: 900px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	/* Quick Nav */
+	.quick-nav {
+		background-color: var(--card-bg);
+		padding: 1.25rem 1.5rem;
+		border-radius: 12px;
+		border: 1px solid var(--border-color);
+		box-shadow: var(--shadow-sm);
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+
+	.quick-nav-title {
+		font-size: 0.85rem;
+		font-weight: 700;
+		color: var(--text-secondary);
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
+	}
+
+	.quick-nav-links {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+
+	.quick-nav-pill {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4rem;
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: var(--text-primary);
+		background-color: var(--bg-color);
+		padding: 0.4rem 0.85rem;
+		border-radius: 8px;
+		border: 1px solid var(--border-color);
+		text-decoration: none;
+		transition: var(--transition);
+	}
+
+	.quick-nav-pill:hover {
+		background-color: var(--accent-light);
+		color: var(--accent);
+		border-color: var(--accent);
+		transform: translateY(-1px);
+	}
+
+	/* Category Blocks */
+	.categories-list {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.category-block {
+		background-color: var(--card-bg);
+		border: 1px solid var(--border-color);
+		border-radius: 16px;
+		padding: 2rem;
+		box-shadow: var(--shadow-sm);
+		scroll-margin-top: 5rem;
+	}
+
+	.category-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start;
+		gap: 1rem;
+		margin-bottom: 1.5rem;
+		padding-bottom: 1.25rem;
+		border-bottom: 1px solid var(--border-color);
+		flex-wrap: wrap;
+	}
+
+	.category-title-wrap {
+		display: flex;
+		gap: 1rem;
+		align-items: flex-start;
+	}
+
+	.category-icon {
+		font-size: 2rem;
+		line-height: 1;
+		background-color: var(--accent-light);
+		padding: 0.5rem;
+		border-radius: 10px;
+	}
+
+	.category-title {
+		font-size: 1.45rem;
+		font-weight: 700;
+		color: var(--text-primary);
+		margin-bottom: 0.25rem;
+	}
+
+	.category-desc {
+		font-size: 0.95rem;
+		color: var(--text-secondary);
+		line-height: 1.5;
+	}
+
+	.category-count {
+		font-size: 0.8rem;
+		font-weight: 700;
+		color: var(--accent);
+		background-color: var(--accent-light);
+		padding: 0.35rem 0.75rem;
+		border-radius: 20px;
+		white-space: nowrap;
+	}
+
+	/* Articles Grid */
+	.articles-grid {
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+	}
+
+	.article-item {
+		border: 1px solid var(--border-color);
+		border-radius: 12px;
+		transition: var(--transition);
+		background-color: #FAFBF9;
+	}
+
+	.article-item:hover {
+		border-color: var(--accent);
+		background-color: #FFFFFF;
+		box-shadow: var(--shadow-md);
+		transform: translateX(4px);
+	}
+
+	.article-link {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 1.25rem 1.5rem;
+		gap: 1.5rem;
+		text-decoration: none;
+		color: inherit;
+	}
+
+	.article-info {
+		flex: 1;
+	}
+
+	.article-meta {
+		font-size: 0.8rem;
+		color: var(--text-secondary);
+		margin-bottom: 0.35rem;
+	}
+
+	.article-title {
+		font-size: 1.15rem;
+		font-weight: 700;
+		color: var(--text-primary);
+		line-height: 1.35;
+		margin-bottom: 0.4rem;
+		transition: color 0.2s;
+	}
+
+	.article-item:hover .article-title {
+		color: var(--accent);
+	}
+
+	.article-snippet {
+		font-size: 0.9rem;
+		color: var(--text-secondary);
+		line-height: 1.5;
+	}
+
+	.article-arrow {
+		display: flex;
+		align-items: center;
+		gap: 0.4rem;
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: var(--accent);
+		white-space: nowrap;
+		flex-shrink: 0;
+	}
+
+	.article-item:hover .article-arrow {
+		color: var(--accent-terracotta);
+	}
+
+	/* Static Pages Block */
+	.static-pages-block {
+		background-color: var(--card-bg);
+		border: 1px solid var(--border-color);
+		border-radius: 16px;
+		padding: 2rem;
+		box-shadow: var(--shadow-sm);
+		scroll-margin-top: 5rem;
+	}
+
+	.pages-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+		gap: 1rem;
+	}
+
+	.page-card {
+		padding: 1.25rem;
+		border: 1px solid var(--border-color);
+		border-radius: 10px;
+		background-color: #FAFBF9;
+		text-decoration: none;
+		color: inherit;
+		transition: var(--transition);
+		display: flex;
+		flex-direction: column;
+		gap: 0.35rem;
+	}
+
+	.page-card:hover {
+		border-color: var(--accent);
+		background-color: #FFFFFF;
+		box-shadow: var(--shadow-sm);
+		transform: translateY(-2px);
+	}
+
+	.page-title {
+		font-size: 1rem;
+		font-weight: 700;
+		color: var(--text-primary);
+	}
+
+	.page-card:hover .page-title {
+		color: var(--accent);
+	}
+
+	.page-path {
+		font-size: 0.75rem;
+		font-family: monospace;
+		color: var(--accent);
+		margin-bottom: 0.25rem;
+	}
+
+	.page-desc {
+		font-size: 0.85rem;
+		color: var(--text-secondary);
+		line-height: 1.4;
+	}
+
+	@media (max-width: 640px) {
+		h1 {
+			font-size: 2.2rem;
+		}
+
+		.hero-stats {
+			gap: 1.25rem;
+		}
+
+		.article-link {
+			flex-direction: column;
+			align-items: flex-start;
+			gap: 0.75rem;
+		}
+
+		.article-arrow {
+			align-self: flex-start;
+		}
+
+		.category-header {
+			flex-direction: column;
+		}
+	}
+</style>

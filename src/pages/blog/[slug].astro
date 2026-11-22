@@ -244,6 +244,20 @@ const formatDate = (dateStr: string | Date) => {
 		margin-bottom: 1.5rem;
 	}
 
+	.post-content :global(a) {
+		color: var(--accent);
+		font-weight: 600;
+		text-decoration: underline;
+		text-decoration-thickness: 1.5px;
+		text-underline-offset: 3px;
+		transition: var(--transition);
+	}
+
+	.post-content :global(a:hover) {
+		color: var(--accent-terracotta);
+		text-decoration-color: var(--accent-terracotta);
+	}
+
 	.post-content :global(ul), .post-content :global(ol) {
 		margin-bottom: 1.5rem;
 		padding-left: 2rem;
