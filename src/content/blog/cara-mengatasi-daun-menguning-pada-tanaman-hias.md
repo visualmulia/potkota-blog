@@ -1,14 +1,15 @@
 ---
 title: "Cara Mengatasi Daun Menguning pada Tanaman Hias: Panduan Lengkap untuk Pemula"
-date: "2026-08-05"
-author: "Admin"
-featured_image: ""
+date: 2026-08-05
+author: Admin
+featured_image: /images/uploads/how-to-fix-yellowing-pothos-leaves-3.png
+description: Temukan cara efektif mengatasi daun menguning pada tanaman hias.
+  Pelajari penyebab umum, solusi praktis, dan tips perawatan agar tanaman
+  kembali hijau dan sehat.
 tags:
-  - "daun menguning"
-  - "tanaman hias"
-description: "Temukan cara efektif mengatasi daun menguning pada tanaman hias. Pelajari penyebab umum, solusi praktis, dan tips perawatan agar tanaman kembali hijau dan sehat."
+  - daun menguning
+  - tanaman hias
 ---
-
 Daun menguning pada tanaman hias adalah masalah umum yang sering membuat pemilik tanaman cemas. Namun, jangan khawatir—dengan identifikasi penyebab yang tepat, Anda bisa mengembalikan kesegaran tanaman. Artikel ini akan membahas secara lengkap cara mengatasi daun menguning pada tanaman hias, mulai dari diagnosis hingga solusi praktis yang bisa langsung Anda terapkan.
 
 ## Mengapa Daun Tanaman Hias Menguning?
@@ -20,6 +21,8 @@ Daun menguning adalah sinyal bahwa tanaman sedang stres. Penyebabnya bisa beraga
 Kelebihan atau kekurangan air adalah penyebab paling sering. Anda bisa mempelajari panduan [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar) untuk memahami teknik dan frekuensi yang aman. Tanaman yang terlalu banyak air akan mengalami pembusukan akar, sehingga daun menguning dan layu secara serentak. Sebaliknya, kekurangan air membuat daun kering dan menguning di tepinya.
 
 **Cara mengatasi:** Pastikan media tanam memiliki drainase baik. Siram hanya saat lapisan atas tanah sudah kering. Untuk tanaman dalam pot, gunakan pot berlubang dan jangan biarkan air menggenang di piring pot.
+
+![Jari mengecek kelembapan media tanam sirih gading.](/images/uploads/checking-pothos-soil-moisture-4.png)
 
 ### 2. Kekurangan Nutrisi (Unsur Hara)
 
@@ -33,11 +36,15 @@ Tanaman hias memiliki kebutuhan cahaya berbeda. Jika terlalu sedikit cahaya, dau
 
 **Cara mengatasi:** Letakkan tanaman di tempat dengan cahaya yang sesuai. Untuk tanaman indoor, gunakan tirai untuk menyaring cahaya. Jika tanaman terlihat terbakar, pindahkan ke lokasi yang lebih teduh.
 
+![Sirih gading di dekat jendela dengan cahaya yang tersaring tirai putih tipis.](/images/uploads/pothos-by-a-softly-diffused-window-1.png)
+
 ### 4. Serangan Hama dan Penyakit
 
 Hama seperti tungau, ulat, dan kutu lilin dapat mengisap cairan sel hingga daun menguning layu. Simak cara tuntas [membasmi kutu putih pada tanaman hias pot](/blog/cara-membasmi-kutu-putih-pada-tanaman-hias-pot) menggunakan bahan organik rumahan yang aman bagi daun.
 
 **Cara mengatasi:** Periksa daun secara rutin, terutama permukaan bawah daun. Jika ada hama, bersihkan dengan kapas yang dibasahi alkohol atau gunakan insektisida organik. Untuk penyakit jamur, gunakan fungisida dan pastikan sirkulasi udara baik.
+
+![Tangan membalik daun sirih gading untuk memeriksa permukaan bawahnya.](/images/uploads/gently-revealing-a-pothos-leaf-underside-5.png)
 
 ### 5. Suhu dan Kelembapan yang Tidak Stabil
 
@@ -51,9 +58,9 @@ Setelah mengetahui penyebabnya, berikut adalah langkah-langkah yang bisa Anda la
 
 ### 1. Evaluasi dan Perbaiki Penyiraman
 
-- Cek kelembapan tanah dengan jari atau alat pengukur.
-- Jika tanah terlalu basah, hentikan penyiraman sementara dan pindahkan ke tempat yang lebih kering.
-- Jika terlalu kering, rendam pot dalam air selama 10-15 menit agar tanah menyerap air secara merata.
+* Cek kelembapan tanah dengan jari atau alat pengukur.
+* Jika tanah terlalu basah, hentikan penyiraman sementara dan pindahkan ke tempat yang lebih kering.
+* Jika terlalu kering, rendam pot dalam air selama 10-15 menit agar tanah menyerap air secara merata.
 
 ### 2. Pangkas Daun yang Sudah Kuning
 
@@ -75,30 +82,32 @@ Gunakan air sabun atau minyak neem untuk mengusir hama. Ulangi setiap beberapa h
 
 Berikut adalah tabel yang merangkum penyebab umum daun menguning beserta solusinya:
 
-| Penyebab | Gejala | Solusi |
-|----------|--------|--------|
-| Penyiraman berlebih | Daun kuning lemas, tanah basah | Kurangi penyiraman, perbaiki drainase |
-| Kekurangan air | Daun kuning kering di tepi | Siram lebih sering, gunakan mulsa |
-| Kekurangan nitrogen | Daun tua menguning merata | Beri pupuk nitrogen tinggi |
-| Kekurangan zat besi | Daun muda pucat, urat hijau | Beri pupuk kelat besi |
-| Cahaya kurang | Daun pucat, batang memanjang | Pindahkan ke tempat lebih terang |
-| Cahaya berlebih | Daun terbakar, bercak kuning | Pindahkan ke tempat teduh |
-| Serangan hama | Bintik kuning, ada serangga | Gunakan insektisida organik |
-| Penyakit jamur | Bercak kuning dengan tepi coklat | Gunakan fungisida, perbaiki sirkulasi udara |
+| Penyebab            | Gejala                           | Solusi                                      |
+| ------------------- | -------------------------------- | ------------------------------------------- |
+| Penyiraman berlebih | Daun kuning lemas, tanah basah   | Kurangi penyiraman, perbaiki drainase       |
+| Kekurangan air      | Daun kuning kering di tepi       | Siram lebih sering, gunakan mulsa           |
+| Kekurangan nitrogen | Daun tua menguning merata        | Beri pupuk nitrogen tinggi                  |
+| Kekurangan zat besi | Daun muda pucat, urat hijau      | Beri pupuk kelat besi                       |
+| Cahaya kurang       | Daun pucat, batang memanjang     | Pindahkan ke tempat lebih terang            |
+| Cahaya berlebih     | Daun terbakar, bercak kuning     | Pindahkan ke tempat teduh                   |
+| Serangan hama       | Bintik kuning, ada serangga      | Gunakan insektisida organik                 |
+| Penyakit jamur      | Bercak kuning dengan tepi coklat | Gunakan fungisida, perbaiki sirkulasi udara |
 
 ## Tips Pencegahan Agar Daun Tetap Hijau
 
 Mencegah lebih baik daripada mengobati. Berikut beberapa tips agar tanaman hias Anda selalu sehat:
 
-- **Kenali kebutuhan tanaman**: Setiap spesies memiliki kebutuhan air, cahaya, dan nutrisi yang berbeda.
-- **Gunakan media tanam berkualitas**: Campuran tanah, sekam, dan kompos dengan perbandingan yang sesuai.
-- **Lakukan pemupukan rutin**: Jadwalkan pemupukan setiap bulan dengan dosis yang tepat.
-- **Perhatikan kebersihan**: Bersihkan daun dari debu agar fotosintesis optimal.
-- **Karantina tanaman baru**: Pisahkan tanaman baru selama beberapa minggu untuk mencegah penyebaran hama.
+* **Kenali kebutuhan tanaman**: Setiap spesies memiliki kebutuhan air, cahaya, dan nutrisi yang berbeda.
+* **Gunakan media tanam berkualitas**: Campuran tanah, sekam, dan kompos dengan perbandingan yang sesuai.
+* **Lakukan pemupukan rutin**: Jadwalkan pemupukan setiap bulan dengan dosis yang tepat.
+* **Perhatikan kebersihan**: Bersihkan daun dari debu agar fotosintesis optimal.
+* **Karantina tanaman baru**: Pisahkan tanaman baru selama beberapa minggu untuk mencegah penyebaran hama.
 
 ## Kapan Harus Memangkas Daun Kuning?
 
 Pemangkasan daun kuning sebaiknya dilakukan segera setelah Anda yakin daun tersebut tidak akan pulih. Gunakan gunting yang tajam dan steril. Potong di pangkal daun, dekat batang utama. Ini akan merangsang pertumbuhan tunas baru.
+
+![Gunting pangkas mengapit tangkai daun kuning di dekat batang utama sirih gading.](/images/uploads/pruning-a-yellow-pothos-leaf-2.png)
 
 ## Kesimpulan
 
