@@ -1,14 +1,16 @@
 ---
-title: "7 Rekomendasi Tanaman Hias Minim Cahaya untuk Kamar Mandi, Solusi Ruangan Gelap Tetap Hijau"
-date: "2026-10-21"
-author: "Admin"
-featured_image: ""
+title: 7 Rekomendasi Tanaman Hias Minim Cahaya untuk Kamar Mandi, Solusi Ruangan
+  Gelap Tetap Hijau
+date: 2026-10-21
+author: Admin
+featured_image: /images/uploads/low-light-plants-for-a-stylish-bathroom-3.png
+description: Ingin kamar mandi tetap asri meski minim cahaya? Simak 7
+  rekomendasi tanaman hias minim cahaya untuk kamar mandi, lengkap dengan tips
+  perawatan dan tabel perbandingan.
 tags:
-  - "Tanaman Hias"
-  - "Kamar Mandi"
-description: "Ingin kamar mandi tetap asri meski minim cahaya? Simak 7 rekomendasi tanaman hias minim cahaya untuk kamar mandi, lengkap dengan tips perawatan dan tabel perbandingan."
+  - Tanaman Hias
+  - Kamar Mandi
 ---
-
 ## Mengapa Kamar Mandi Minim Cahaya Tetap Bisa Ditanami?
 
 Kamar mandi dengan pencahayaan minim sering dianggap tidak cocok untuk tanaman hias. Namun, ada banyak spesies tanaman yang secara alami tumbuh di bawah kanopi hutan hujan dan toleran terhadap cahaya rendah. Kuncinya adalah memilih tanaman yang membutuhkan sedikit cahaya (low-light plants) dan mampu beradaptasi dengan kelembapan tinggi. Menurut sumber terpercaya, lidah mertua (Snake Plant) dan ZZ Plant adalah pilihan utama untuk ruangan minim cahaya karena tahan hidup dalam kondisi redup. Selain itu, tanaman seperti sirih gading, pakis, dan monstera juga mampu tumbuh di lingkungan lembap kamar mandi. Dengan pemilihan yang tepat, kamar mandi Anda bisa tetap hijau dan sehat tanpa perlu cahaya matahari langsung.
@@ -17,11 +19,11 @@ Kamar mandi dengan pencahayaan minim sering dianggap tidak cocok untuk tanaman h
 
 Sebelum memilih, ada beberapa kriteria yang perlu diperhatikan agar tanaman tidak mudah mati:
 
-- **Toleransi cahaya rendah**: Tanaman harus bisa bertahan dengan cahaya lampu atau cahaya tidak langsung.
-- **Suka kelembapan**: Kamar mandi cenderung lembap, jadi pilih tanaman yang tidak mudah busuk akar.
-- **Perawatan mudah**: Idealnya tidak perlu sering disiram atau dipangkas.
-- **Ukuran sesuai**: Pilih tanaman yang tidak terlalu besar untuk ruangan terbatas.
-- **Keamanan**: Hindari tanaman beracun jika ada anak-anak atau hewan peliharaan.
+* **Toleransi cahaya rendah**: Tanaman harus bisa bertahan dengan cahaya lampu atau cahaya tidak langsung.
+* **Suka kelembapan**: Kamar mandi cenderung lembap, jadi pilih tanaman yang tidak mudah busuk akar.
+* **Perawatan mudah**: Idealnya tidak perlu sering disiram atau dipangkas.
+* **Ukuran sesuai**: Pilih tanaman yang tidak terlalu besar untuk ruangan terbatas.
+* **Keamanan**: Hindari tanaman beracun jika ada anak-anak atau hewan peliharaan.
 
 ## 7 Rekomendasi Tanaman Hias Minim Cahaya untuk Kamar Mandi
 
@@ -38,6 +40,8 @@ ZZ Plant memiliki daun mengkilap yang indah dan mampu menyimpan air di rimpangny
 ### 3. Sirih Gading (Epipremnum aureum)
 
 Sirih gading adalah tanaman merambat yang bisa digantung atau diletakkan di rak. Tanaman ini mampu tumbuh di cahaya rendah dan menyukai kelembapan kamar mandi. Selain mempercantik ruangan, sirih gading juga dikenal sebagai pembersih udara alami. Siram secara teratur, tetapi jangan sampai tergenang.
+
+![Sirih gading menjuntai dari rak dekat jendela buram, di luar area pancuran.](/images/uploads/golden-pothos-beside-a-frosted-bathroom-window-2.png)
 
 ### 4. Pakis (Nephrolepis exaltata)
 
@@ -57,25 +61,29 @@ Tanaman besi cor sangat tangguh dan toleran terhadap cahaya rendah, suhu ekstrem
 
 ## Tabel Perbandingan Tanaman Hias Minim Cahaya untuk Kamar Mandi
 
-| Nama Tanaman | Kebutuhan Cahaya | Frekuensi Penyiraman | Kelebihan | Kekurangan |
-|--------------|------------------|----------------------|-----------|------------|
-| Lidah Mertua | Sangat rendah | 2-3 minggu sekali | Tahan kering, mudah dirawat | Pertumbuhan lambat |
-| ZZ Plant | Rendah | 2-3 minggu sekali | Tahan kekeringan, daun mengkilap | Beracun jika dimakan |
-| Sirih Gading | Rendah | 1 minggu sekali | Merambat, pembersih udara | Perlu pemangkasan rutin |
-| Pakis | Rendah | 2-3 kali seminggu | Kesan tropis, menyukai lembap | Tidak tahan kering |
-| Maranta | Rendah | 1-2 kali seminggu | Daun unik, menyukai lembap | Sensitif terhadap air keras |
-| Peace Lily | Rendah | 1 minggu sekali | Bunga cantik, pembersih udara | Beracun bagi hewan |
-| Tanaman Besi Cor | Sangat rendah | 2-3 minggu sekali | Sangat tangguh, tahan segala kondisi | Pertumbuhan sangat lambat |
+| Nama Tanaman     | Kebutuhan Cahaya | Frekuensi Penyiraman | Kelebihan                            | Kekurangan                  |
+| ---------------- | ---------------- | -------------------- | ------------------------------------ | --------------------------- |
+| Lidah Mertua     | Sangat rendah    | 2-3 minggu sekali    | Tahan kering, mudah dirawat          | Pertumbuhan lambat          |
+| ZZ Plant         | Rendah           | 2-3 minggu sekali    | Tahan kekeringan, daun mengkilap     | Beracun jika dimakan        |
+| Sirih Gading     | Rendah           | 1 minggu sekali      | Merambat, pembersih udara            | Perlu pemangkasan rutin     |
+| Pakis            | Rendah           | 2-3 kali seminggu    | Kesan tropis, menyukai lembap        | Tidak tahan kering          |
+| Maranta          | Rendah           | 1-2 kali seminggu    | Daun unik, menyukai lembap           | Sensitif terhadap air keras |
+| Peace Lily       | Rendah           | 1 minggu sekali      | Bunga cantik, pembersih udara        | Beracun bagi hewan          |
+| Tanaman Besi Cor | Sangat rendah    | 2-3 minggu sekali    | Sangat tangguh, tahan segala kondisi | Pertumbuhan sangat lambat   |
+
+![Lidah mertua dalam media kering di samping pakis Boston dalam media yang sedikit lembap.](/images/uploads/snake-plant-and-fern-moisture-contrast-4.png)
 
 ## Tips Merawat Tanaman Hias di Kamar Mandi Minim Cahaya
 
 Agar tanaman tetap sehat, ikuti tips berikut:
 
-- **Gunakan pot dengan drainase baik**: Kelembapan tinggi bisa menyebabkan busuk akar jika air tidak mengalir.
-- **Putar tanaman secara berkala**: Agar pertumbuhan merata meski cahaya minim.
-- **Bersihkan daun**: Debu menghambat penyerapan cahaya.
-- **Hindari menyiram berlebihan**: Kelembapan kamar mandi sudah tinggi, sehingga media tanam lebih lambat mengering. Terapkan kaidah [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar).
-- **Tambahkan lampu grow light**: Jika kamar mandi benar-benar gelap, lampu LED tanaman bisa menjadi solusi.
+* **Gunakan pot dengan drainase baik**: Kelembapan tinggi bisa menyebabkan busuk akar jika air tidak mengalir.
+* **Putar tanaman secara berkala**: Agar pertumbuhan merata meski cahaya minim.
+* **Bersihkan daun**: Debu menghambat penyerapan cahaya.
+* **Hindari menyiram berlebihan**: Kelembapan kamar mandi sudah tinggi, sehingga media tanam lebih lambat mengering. Terapkan kaidah [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar).
+* **Tambahkan lampu grow light**: Jika kamar mandi benar-benar gelap, lampu LED tanaman bisa menjadi solusi.
+
+![Lampu tanam di bawah rak menerangi ZZ plant dan sirih gading di kamar mandi tanpa jendela.](/images/uploads/sage-toned-bathroom-with-grow-light-plants-1.png)
 
 ## Kesimpulan
 
