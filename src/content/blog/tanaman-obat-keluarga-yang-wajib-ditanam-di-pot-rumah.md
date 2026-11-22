@@ -1,12 +1,14 @@
 ---
 title: "7 Tanaman Obat Keluarga yang Wajib Ditanam di Pot Rumah: Solusi Sehat Alami"
-date: "2026-11-18"
-author: "Admin"
-featured_image: ""
+date: 2026-11-18
+author: Admin
+featured_image: /images/uploads/potkota-herbal-grid-poster.png
+description: Temukan 7 tanaman obat keluarga yang wajib ditanam di pot rumah.
+  Mudah dirawat, kaya manfaat, dan cocok untuk lahan terbatas. Jadikan rumah
+  Anda apotek hidup!
 tags:
-  - "Tanaman Obat"
-  - "TOGA"
-description: "Temukan 7 tanaman obat keluarga yang wajib ditanam di pot rumah. Mudah dirawat, kaya manfaat, dan cocok untuk lahan terbatas. Jadikan rumah Anda apotek hidup!"
+  - Tanaman Obat
+  - TOGA
 ---
 
 Menanam tanaman obat keluarga (TOGA) di pot rumah adalah cara cerdas untuk memiliki akses cepat ke bahan alami penyembuh, bahkan di lahan terbatas. Selain praktis, TOGA dalam pot juga mempercantik hunian dan memberikan kepuasan tersendiri karena Anda bisa memanen sendiri. Berikut adalah 7 tanaman obat keluarga yang wajib ditanam di pot rumah, lengkap dengan manfaat dan tips perawatannya.
