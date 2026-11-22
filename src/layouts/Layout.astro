@@ -5,15 +5,25 @@ interface Props {
 	title: string;
 	description?: string;
 	image?: string;
+	type?: 'website' | 'article';
 }
 
-const { title, description = "Eksplorasi kecerdasan buatan, tren teknologi masa depan, dan panduan praktis pemanfaatan AI untuk melipatgandakan produktivitas.", image } = Astro.props;
+const { 
+	title, 
+	description = "Inspirasi berkebun perkotaan (urban gardening), panduan merawat tanaman hias indoor, dan penghijauan rumah minimalis di lahan sempit.", 
+	image,
+	type = 'website'
+} = Astro.props;
 
 // Determine absolute canonical URL and image URL for metadata
 const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).href;
-const ogImage = image 
-	? (image.startsWith('http') ? image : new URL(image, Astro.url.origin).href)
-	: new URL('/favicon.svg', Astro.url.origin).href;
+
+// Default social share card image if specific featured_image is empty (social platforms don't support SVG)
+const defaultOgImage = '/images/uploads/majestic-snake-plant-in-terracotta-2.png';
+const resolvedImage = image && image.trim() !== '' ? image : defaultOgImage;
+const ogImage = resolvedImage.startsWith('http') 
+	? resolvedImage 
+	: new URL(resolvedImage, Astro.site ?? Astro.url.origin).href;
 ---
 
 <!doctype html>
@@ -29,19 +39,21 @@ const ogImage = image
 		<meta name="description" content={description} />
 		<link rel="canonical" href={canonicalURL} />
 		
-		<!-- Open Graph / Facebook -->
-		<meta property="og:type" content="website" />
+		<!-- Open Graph / Facebook / WhatsApp -->
+		<meta property="og:type" content={type} />
+		<meta property="og:site_name" content="PotKota" />
 		<meta property="og:url" content={canonicalURL} />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
 		<meta property="og:image" content={ogImage} />
+		<meta property="og:image:alt" content={title} />
 
-		<!-- Twitter -->
-		<meta property="twitter:card" content="summary_large_image" />
-		<meta property="twitter:url" content={canonicalURL} />
-		<meta property="twitter:title" content={title} />
-		<meta property="twitter:description" content={description} />
-		<meta property="twitter:image" content={ogImage} />
+		<!-- Twitter Card -->
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:url" content={canonicalURL} />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		<meta name="twitter:image" content={ogImage} />
 
 		<!-- Google AdSense Verification & Auto Ads -->
 		<meta name="google-adsense-account" content="ca-pub-6193006802253158" />
