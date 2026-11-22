@@ -1,14 +1,16 @@
 ---
-title: "Cara Membasmi Kutu Putih pada Tanaman Hias Pot: 7 Metode Ampuh dan Ramah Lingkungan"
-date: "2026-10-28"
-author: "Admin"
-featured_image: ""
+title: "Cara Membasmi Kutu Putih pada Tanaman Hias Pot: 7 Metode Ampuh dan Ramah
+  Lingkungan"
+date: 2026-10-28
+author: Admin
+featured_image: /images/uploads/poinsettia-whitefly-control-guide-2.png
+description: Pelajari cara membasmi kutu putih pada tanaman hias pot dengan
+  metode alami hingga insektisida. Panduan lengkap, aman, dan efektif untuk
+  tanaman kesayangan Anda.
 tags:
-  - "kutu putih"
-  - "tanaman hias"
-description: "Pelajari cara membasmi kutu putih pada tanaman hias pot dengan metode alami hingga insektisida. Panduan lengkap, aman, dan efektif untuk tanaman kesayangan Anda."
+  - kutu putih
+  - tanaman hias
 ---
-
 Kutu putih (whiteflies) adalah salah satu hama yang sering menyerang tanaman hias pot. Serangga kecil berwarna putih ini menghisap cairan tanaman dan dapat menyebabkan daun menguning, layu, bahkan kematian jika tidak segera ditangani. Bagaimana cara membasmi kutu putih pada tanaman hias pot? Ada beberapa metode yang bisa Anda coba, mulai dari bahan alami hingga insektisida kimia. Artikel ini akan membahas secara lengkap dan praktis.
 
 ## Mengapa Kutu Putih Berbahaya bagi Tanaman Hias Pot?
@@ -55,23 +57,27 @@ Insektisida kimia sebaiknya menjadi pilihan terakhir. Pilih produk yang terdafta
 
 Perangkap ini membantu mengurangi populasi kutu putih dan memantau tingkat infestasi. Gantung perangkap kuning di sekitar tanaman atau tempelkan pada pot. Ganti perangkap secara berkala.
 
+![Perangkap kuning lengket dipasang pada penyangga di dekat daun tanaman hias.](/images/uploads/yellow-sticky-card-beside-potted-poinsettia-3.png)
+
 ### 7. Karantina dan Kebersihan
 
 **Jawaban singkat:** Pisahkan tanaman yang terinfestasi dari tanaman sehat. Bersihkan daun yang terserang dengan air dan sabun, dan buang bagian yang parah.
 
 Karantina mencegah penyebaran kutu putih ke tanaman lain. Selain itu, jaga kebersihan lingkungan sekitar tanaman. Apabila serangan kutu sudah terlanjur menyebabkan klorosis atau daun rontok, Anda bisa membaca panduan [cara mengatasi daun menguning pada tanaman hias](/blog/cara-mengatasi-daun-menguning-pada-tanaman-hias) agar tanaman lekas pulih dan tumbuh tunas baru.
 
+![Satu pot tanaman dipisahkan dari tanaman lain di balik sekat kaca.](/images/uploads/quarantined-poinsettia-behind-glass-1.png)
+
 ## Perbandingan Metode Pengendalian Kutu Putih
 
-| Metode | Kelebihan | Kekurangan | Efektivitas |
-|--------|-----------|------------|-------------|
-| Sabun Cuci Piring | Murah, mudah, aman | Perlu aplikasi rutin, kurang efektif untuk infestasi berat | Sedang |
-| Alkohol | Cepat membunuh, mudah | Dapat merusak daun jika berlebihan | Tinggi (untuk infestasi ringan) |
-| Minyak Nimba | Alami, sistemik, aman | Harus dicampur dengan emulsifier, perlu aplikasi rutin | Tinggi |
-| Predator Alami | Ramah lingkungan, berkelanjutan | Tidak praktis untuk dalam ruangan, butuh waktu | Sedang |
-| Insektisida Kimia | Sangat efektif untuk infestasi berat | Beracun, dapat membunuh serangga baik | Tinggi |
-| Perangkap Kuning | Mudah, murah, sebagai monitoring | Hanya menangkap kutu dewasa | Rendah (sebagai pelengkap) |
-| Karantina & Kebersihan | Mencegah penyebaran | Tidak membunuh kutu yang sudah ada | Rendah (sebagai pencegahan) |
+| Metode                 | Kelebihan                            | Kekurangan                                                 | Efektivitas                     |
+| ---------------------- | ------------------------------------ | ---------------------------------------------------------- | ------------------------------- |
+| Sabun Cuci Piring      | Murah, mudah, aman                   | Perlu aplikasi rutin, kurang efektif untuk infestasi berat | Sedang                          |
+| Alkohol                | Cepat membunuh, mudah                | Dapat merusak daun jika berlebihan                         | Tinggi (untuk infestasi ringan) |
+| Minyak Nimba           | Alami, sistemik, aman                | Harus dicampur dengan emulsifier, perlu aplikasi rutin     | Tinggi                          |
+| Predator Alami         | Ramah lingkungan, berkelanjutan      | Tidak praktis untuk dalam ruangan, butuh waktu             | Sedang                          |
+| Insektisida Kimia      | Sangat efektif untuk infestasi berat | Beracun, dapat membunuh serangga baik                      | Tinggi                          |
+| Perangkap Kuning       | Mudah, murah, sebagai monitoring     | Hanya menangkap kutu dewasa                                | Rendah (sebagai pelengkap)      |
+| Karantina & Kebersihan | Mencegah penyebaran                  | Tidak membunuh kutu yang sudah ada                         | Rendah (sebagai pencegahan)     |
 
 ## Tips Mencegah Kutu Putih Kembali
 
