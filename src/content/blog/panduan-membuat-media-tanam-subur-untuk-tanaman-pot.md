@@ -1,36 +1,39 @@
 ---
 title: "Panduan Membuat Media Tanam Subur untuk Tanaman Pot: Resep Racikan Sendiri"
-date: "2026-07-29"
-author: "Admin"
-featured_image: ""
+date: 2026-07-29
+author: Admin
+featured_image: /images/uploads/aglaonema-potting-mix-guide-5.png
+description: Pelajari cara membuat media tanam subur untuk tanaman pot dengan
+  resep sederhana. Panduan lengkap komposisi tanah, pupuk, dan sekam agar
+  tanaman tumbuh optimal.
 tags:
-  - "media tanam subur"
-  - "tanaman pot"
-description: "Pelajari cara membuat media tanam subur untuk tanaman pot dengan resep sederhana. Panduan lengkap komposisi tanah, pupuk, dan sekam agar tanaman tumbuh optimal."
+  - media tanam subur
+  - tanaman pot
 ---
-
 Media tanam yang subur adalah kunci utama keberhasilan berkebun di pot. Tanpa campuran yang tepat, tanaman bisa kekurangan nutrisi, akar membusuk, atau pertumbuhan terhambat. Artikel ini akan memandu Anda membuat media tanam sendiri dengan bahan sederhana yang mudah didapat.
 
 ## Komposisi Dasar Media Tanam Subur
 
+![Dari kiri ke kanan, tanah gembur, pupuk kandang matang, dan sekam bakar dalam tiga wadah.](/images/uploads/soil-compost-and-rice-husk-charcoal-1.png)
+
 Media tanam yang ideal harus memenuhi tiga fungsi utama: menyediakan nutrisi, menjaga kelembapan, dan memastikan drainase baik. Berdasarkan sumber dari Gokomodo, campuran dasar yang direkomendasikan adalah:
 
-- **1 bagian tanah sedang** (tanah kebun yang gembur, bukan tanah liat)
-- **½ hingga 1 bagian pupuk kandang** (kotoran sapi atau ayam yang sudah matang)
-- **1 hingga 2 bagian sekam** (sekam bakar atau sekam mentah)
+* **1 bagian tanah sedang** (tanah kebun yang gembur, bukan tanah liat)
+* **½ hingga 1 bagian pupuk kandang** (kotoran sapi atau ayam yang sudah matang)
+* **1 hingga 2 bagian sekam** (sekam bakar atau sekam mentah)
 
 Proporsi ini bisa disesuaikan tergantung jenis tanaman. Misalnya, tanaman kaktus membutuhkan lebih banyak sekam untuk drainase, sementara sayuran daun memerlukan lebih banyak pupuk kandang.
 
 ### Tabel Perbandingan Bahan Media Tanam
 
-| Bahan | Fungsi Utama | Kelebihan | Kekurangan |
-|-------|--------------|-----------|------------|
-| Tanah gembur | Struktur dan mineral | Stabil, murah | Bisa padat, perlu dicampur |
-| Pupuk kandang | Nutrisi organik | Kaya unsur hara, memperbaiki struktur | Harus matang, bisa bau |
-| Sekam bakar | Drainase dan aerasi | Ringan, steril, mencegah jamur | Cepat lapuk, perlu diganti |
-| Sekam mentah | Drainase | Murah, mudah didapat | Bisa menyerap nitrogen saat melapuk |
-| Kompos | Nutrisi dan mikroba | Seimbang, ramah lingkungan | Proses pembuatan lama |
-| Cocopeat | Retensi air | Menahan air, gembur | Tidak mengandung nutrisi |
+| Bahan         | Fungsi Utama         | Kelebihan                             | Kekurangan                          |
+| ------------- | -------------------- | ------------------------------------- | ----------------------------------- |
+| Tanah gembur  | Struktur dan mineral | Stabil, murah                         | Bisa padat, perlu dicampur          |
+| Pupuk kandang | Nutrisi organik      | Kaya unsur hara, memperbaiki struktur | Harus matang, bisa bau              |
+| Sekam bakar   | Drainase dan aerasi  | Ringan, steril, mencegah jamur        | Cepat lapuk, perlu diganti          |
+| Sekam mentah  | Drainase             | Murah, mudah didapat                  | Bisa menyerap nitrogen saat melapuk |
+| Kompos        | Nutrisi dan mikroba  | Seimbang, ramah lingkungan            | Proses pembuatan lama               |
+| Cocopeat      | Retensi air          | Menahan air, gembur                   | Tidak mengandung nutrisi            |
 
 ## Langkah-Langkah Membuat Media Tanam
 
@@ -40,9 +43,13 @@ Kumpulkan tanah gembur, pupuk kandang matang, dan sekam. Pastikan pupuk kandang 
 
 ### 2. Ayak Tanah dan Pupuk
 
+![Butiran tanah jatuh melewati ayakan kawat, sementara kerikil tertahan di atasnya.](/images/uploads/hand-sifting-soil-through-a-garden-sieve-4.png)
+
 Ayak tanah dan pupuk kandang untuk memisahkan batu, kerikil, atau kotoran kasar. Gunakan ayakan kawat dengan lubang 0,5-1 cm. Hasil ayakan akan lebih halus dan seragam, memudahkan akar menembus.
 
 ### 3. Campur dengan Perbandingan Tepat
+
+![Sekam bakar dituang dari takaran ke baskom berisi tanah dan pupuk kandang matang.](/images/uploads/garden-mix-with-charred-rice-husk-3.png)
 
 Untuk tanaman hias daun (seperti aglonema dan monstera), gunakan perbandingan 1:1:1 (tanah:pupuk:sekam). Formula gembur ini sangat ideal diterapkan bersamaan dengan [cara menyiram tanaman hias indoor agar tidak busuk akar](/blog/cara-menyiram-tanaman-hias-indoor-agar-tidak-busuk-akar). Sementara itu, untuk tanaman buah atau sayur seperti pada [panduan menanam tomat di pot untuk pemula](/blog/panduan-menanam-tomat-di-pot-untuk-pemula), tambahkan pupuk kandang matang lebih banyak (1:2:1) guna menyuplai nutrisi selama fase pembungaan dan pembuahan. Aduk rata menggunakan sekop atau sarung tangan.
 
@@ -51,6 +58,8 @@ Untuk tanaman hias daun (seperti aglonema dan monstera), gunakan perbandingan 1:
 Untuk mencegah jamur dan hama, Anda bisa menjemur campuran media di bawah sinar matahari langsung selama 2-3 hari. Atau kukus selama 30 menit. Cara ini efektif membunuh telur serangga dan spora jamur.
 
 ### 5. Uji Kualitas Media
+
+![Gumpalan media tanam di telapak tangan mulai terurai saat disentuh dengan jari.](/images/uploads/hand-testing-a-fresh-soil-clod-2.png)
 
 Ambil segenggam media, kepal. Jika media menggumpal tapi mudah hancur saat disentuh, berarti komposisinya pas. Jika terlalu padat, tambahkan sekam. Jika terlalu remah, tambahkan tanah.
 
